@@ -1,0 +1,3 @@
+La moyenne de la classe est : 15.57
+L'etudiant ayant le matricule 1852249 a la meilleure note 18 dans les labs
+L'etudiant ayant le matricule 1857346 a la meilleure moyenne 17
